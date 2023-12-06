@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayconaap
+- 👋 Hi, I’m Maycon
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning python and data analysis
 - 💞️ I’m looking to collaborate on new projects to develop myself better
