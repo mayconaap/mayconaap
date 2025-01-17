@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maycon
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning front end, and data analysis
+- 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on new projects to develop myself better
 - 📫 How to reach me? @entaomaycon - mayconaap@gmail.com
 
